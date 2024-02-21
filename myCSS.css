@@ -44,16 +44,18 @@ body {
 	width: 100%;
 	text-align: left;
 	text-indent: 50px;
-	.h4 {
-		color: #7FC6D7;
-		text-align: center;
-		font-size: 16px;
-	}
-	.p {
-		color: #ABDAE2;
-		text-align: center;
-	}
 }
+.h4 {
+	color: #7FC6D7;
+	text-align: center;
+	font-size: 16px;
+}
+.p {
+	color: #ABDAE2;
+	text-align: center;
+	font-size: 12px;
+}
+
 .footer {
 	background: ##D6E1E2;
 	margin: 0px;
