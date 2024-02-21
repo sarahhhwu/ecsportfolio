@@ -43,6 +43,7 @@ body {
 	float: inherit;
 	width: 100%;
 	text-align: left;
+	text-indent: 50px;
 	.h4 {
 		color: #7FC6D7;
 		text-align: center;
