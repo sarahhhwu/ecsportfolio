@@ -46,11 +46,13 @@ body {
 	text-indent: 50px;
 }
 .h4 {
+	float: inherit;
 	color: #7FC6D7;
 	text-align: center;
 	font-size: 16px;
 }
 .p {
+	float: inherit;
 	color: #ABDAE2;
 	text-align: center;
 	font-size: 12px;
