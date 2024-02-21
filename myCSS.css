@@ -40,7 +40,7 @@ body {
 .amcontent {
 	background: #EEEEEE;
 	margin: 0px;
-	float: inherit;
+	float: left;
 	width: 100%;
 	text-align: left;
 	text-indent: 50px;
