@@ -39,10 +39,20 @@ body {
 }
 .amcontent {
 	background: #EEEEEE;
-	margin: 0px;
+	margin: 10px;
 	float: inherit;
 	width: 100%;
 	text-align: left;
+	.h4 {
+		color: #7FC6D7;
+		text-align: center;
+		font-size: 16px;
+	}
+	.p {
+		color: #ABDAE2;
+		text-align: center;
+	}
+}
 .footer {
 	background: ##D6E1E2;
 	margin: 0px;
