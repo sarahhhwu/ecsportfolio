@@ -57,12 +57,13 @@ h4 {
   float: inherit;
   color: #7FC6D7;
   font-size: 16px;
+  text-align: inherit;
 }
 p {
   float: inherit;
   color: #6FB3C4;
   font-size: 12px;
-  text-align: left;
+  text-align: inherit;
 }
 
 .footer {
