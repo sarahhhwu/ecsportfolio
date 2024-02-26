@@ -61,6 +61,16 @@ p {
   font-size: 12px;
   margin-left: 30px;
 }
+ul {
+  color: #7FC6D7;
+  font-size: 12px;
+  margin-left: 30px;
+}
+ol {
+  color: #7FC6D7;
+  font-size: 12px;
+  margin-left: 30px;
+}
 
 .footer {
   background: #D6E1E2;
