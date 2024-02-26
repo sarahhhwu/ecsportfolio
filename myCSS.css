@@ -47,22 +47,19 @@ body {
 }
 .decacontent {
   background: #EEEEEE;
-  margin-left: 30px;
+  margin: 0px;
   float: left;
   width: 100%;
   text-align: center;
 }
 h4 {
-  float: inherit;
   color: #7FC6D7;
   font-size: 16px;
-  text-align: inherit;
 }
 p {
-  float: inherit;
   color: #6FB3C4;
   font-size: 12px;
-  text-align: inherit;
+  margin-left: 30px;
 }
 
 .footer {
